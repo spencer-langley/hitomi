@@ -1,0 +1,158 @@
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Hitomi.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Hitomi.pdb
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Antlr3.Runtime.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.AspNet.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.Core.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.OAuth.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.OpenId.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\EntityFramework.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Microsoft.Data.Edm.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Microsoft.Data.OData.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Newtonsoft.Json.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Spatial.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Helpers.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Http.OData.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Mvc.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Optimization.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Razor.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.WebPages.Deployment.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.WebPages.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.WebPages.Razor.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\WebGrease.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\WebMatrix.Data.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\WebMatrix.WebData.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\EntityFramework.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Newtonsoft.Json.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Helpers.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Mvc.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Razor.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.WebPages.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.WebPages.Deployment.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.WebPages.Razor.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\WebMatrix.Data.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\WebMatrix.WebData.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.AspNet.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.Core.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.OAuth.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.OpenId.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Web.Http.OData.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Microsoft.Data.Edm.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\Microsoft.Data.OData.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\System.Spatial.xml
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\de\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\es\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\fr\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\it\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ja\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ko\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\ru\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\obj\Debug\Hitomi.csprojResolveAssemblyReference.cache
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\obj\Debug\Hitomi.dll
+c:\users\spencer\documents\visual studio 2012\Projects\Hitomi\obj\Debug\Hitomi.pdb
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Hitomi.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Hitomi.pdb
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Antlr3.Runtime.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.Core.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\EntityFramework.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Microsoft.Data.Edm.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Microsoft.Data.OData.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Newtonsoft.Json.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Spatial.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Helpers.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Http.OData.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Mvc.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Optimization.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Razor.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.WebPages.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\WebGrease.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\WebMatrix.Data.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\WebMatrix.WebData.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\EntityFramework.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Newtonsoft.Json.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Helpers.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Mvc.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Razor.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.WebPages.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\WebMatrix.Data.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\WebMatrix.WebData.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.Core.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Web.Http.OData.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Microsoft.Data.Edm.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\Microsoft.Data.OData.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\System.Spatial.xml
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\de\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\es\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\fr\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\it\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ja\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ko\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\ru\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\obj\Debug\Hitomi.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\obj\Debug\Hitomi.dll
+C:\Users\Spencer\Documents\GitHub\Hitomi\Hitomi\obj\Debug\Hitomi.pdb
