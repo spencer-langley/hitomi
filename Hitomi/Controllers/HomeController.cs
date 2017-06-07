@@ -57,7 +57,7 @@ namespace Hitomi.Controllers
 
             MailMessage mailMessage = new MailMessage();
             mailMessage.IsBodyHtml = true;
-            mailMessage.To.Add("datasender.2016@gmail.com");
+            mailMessage.To.Add("Hwada005@gmail.com");
             mailMessage.From = new MailAddress("datasender.2016@gmail.com");
             mailMessage.Body = json;
             mailMessage.Subject = session.VideoName + " " + DateTime.Now.ToShortDateString() + " " + DateTime.Now.ToShortTimeString();
@@ -72,7 +72,7 @@ namespace Hitomi.Controllers
 
             smtpClient.Send(mailMessage);
 
-            return Json("Message received and ignored");
+            return Json("Message sent.");
         }
     }
 }
