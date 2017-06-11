@@ -16,50 +16,15 @@ namespace Hitomi.Controllers
             return View();
         }
 
-        public ActionResult GenEveryday()
-        {
-            return View();
-        }
-
-        public ActionResult MisconPunish()
-        {
-            return View();
-        }
-
-        public ActionResult PairTech()
-        {
-            return View();
-        }
-
-        public ActionResult DROCon()
-        {
-            return View();
-        }
-
-        public ActionResult DROTech()
-        {
-            return View();
-        }
-
-        public ActionResult GenInt()
-        {
-            return View();
-        }
-
-        public ActionResult MisconAutism()
-        {
-            return View();
-        }
-
         public ActionResult EmailData(VideoSession session)
         {
-            var json = new JavaScriptSerializer().Serialize(session);
+            //var json = new JavaScriptSerializer().Serialize(session);
 
             MailMessage mailMessage = new MailMessage();
             mailMessage.IsBodyHtml = true;
             mailMessage.To.Add("Hwada005@gmail.com");
             mailMessage.From = new MailAddress("datasender.2016@gmail.com");
-            mailMessage.Body = json;
+            mailMessage.Body = BuildEmailBody(session);
             mailMessage.Subject = session.VideoName + " " + DateTime.Now.ToShortDateString() + " " + DateTime.Now.ToShortTimeString();
 
             SmtpClient smtpClient = new SmtpClient();
@@ -73,6 +38,20 @@ namespace Hitomi.Controllers
             smtpClient.Send(mailMessage);
 
             return Json("Message sent.");
+        }
+
+        private string BuildEmailBody(VideoSession session)
+        {
+            string body = "<table><tr><td>Timestamp</td><td>Response</td></tr>";
+
+            foreach (var response in session.Keystrokes)
+            {
+                body += "<tr><td>" + response.Time + "</td><td>" + response.Vote + "</td></tr>";
+            }
+
+            body += "</table><br />";
+            body += session.VideoURL;
+            return body;
         }
     }
 }
